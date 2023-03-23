@@ -9,7 +9,7 @@ module.exports = {
 		open: true,
 		compress: true
   },
-  entry: "./src/index.ts",
+  entry: "./src/index.js",
   output: {
     filename: "index.js"
   },
